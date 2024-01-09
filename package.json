@@ -4,7 +4,8 @@
   "description": "A copy of https://www.tabnews.com.br for learning purposes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build"
   },
   "author": "",
   "license": "MIT",
